@@ -59,3 +59,8 @@ Crie um sistema de filtro para uma escola. Você deve definir no seu código uma
 O sistema deve:
 - Perguntar qual é a média da escola;
 - Retornar uma lista com todos os alunos reprovados que deverão fazer exame;
+
+EXERCÍCIO 9
+---
+Crie um sistema que recebe três valores de texto do usuário, e adicione-os a um vetor. O sistema deve:
+- Avaliar se todos os itens do vetor são iguais e informar ao usuário de acordo;
