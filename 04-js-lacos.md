@@ -1,5 +1,6 @@
 ## EXERCÍCIOS LAÇOS
----
+
+
 ### EXERCÍCIO 01
  Crie um programa que utiliza os números ímpares encontrados entre numeroInicial e numeroFinal e realiza a soma entre eles.
   
@@ -32,11 +33,11 @@ Crie um sistema que recebe um valor numérico informando quantos lances de escad
 
 **EX:** `*Usuário pediu 5 lances de escada*`
 **Saída:**
-*
-**
-***
-****
-*****
+%
+%%
+%%%
+%%%%
+%%%%%
 
 ### EXERCÍCIO 09
 Crie um sistema de convidados para uma festa. Você deve definir no seu código uma lista que contenha vários nomes de convidados para uma festa. Seu sistema deve:
