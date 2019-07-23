@@ -19,3 +19,27 @@
   Crie uma lista de objetos contendo filmes e suas respectivas classificações. O programa ao receber uma idade armazenada em uma variável, deverá verificar e mostrar no console qual filme o usuário pode assistir.
   
   **EX:** `Você pode assistir o filme REI LEÃO`
+
+### EXERCÍCIO 06
+    Crie um sistema que recebe dois valores numéricos do usuário. O sistema deve mostrar qual o maior desses valores.
+
+### EXERCÍCIO 07
+Crie um sistema que receba um valor numérico do usuário. O sistema deve mostrar os resultados da tabuada do número digitado até o 10.
+
+### EXERCÍCIO 08
+Crie um sistema que recebe um valor numérico informando quantos lances de escada devem ser criados. Na sequência, desenhe esses lances no console seguindo o exemplo:
+
+
+**EX:** `*Usuário pediu 5 lances de escada*`
+**Saída:**
+*
+**
+***
+****
+*****
+
+### EXERCÍCIO 09
+Crie um sistema de convidados para uma festa. Você deve definir no seu código uma lista que contenha vários nomes de convidados para uma festa. Seu sistema deve:
+
+- Perguntar para o usuário qual o convidado que está tentando entrar;
+- Verificar se o convidado está na lista de convidados e responder ao usuário de acordo;
