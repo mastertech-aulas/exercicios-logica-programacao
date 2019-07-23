@@ -8,7 +8,7 @@ Imprima no console o nome do 1o e do 3o artista da lista.
  `Michael Jackson `
  `Billy Corgan`
 
-
+---
 ### EXERCÍCIO 02
  Crie um objeto que represente seu personagem favorito. Use atributos como nome, idade, altura, série/filme/quadrinho/gameque ele pertence, habilidade, etc.  
  Imprima no console uma frase usando alguns de seus atributos.

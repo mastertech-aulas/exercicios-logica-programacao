@@ -8,6 +8,7 @@
   **Ex:** `Uma piscina com o comprimento de 10 metros, largura de 5 metros e profundidade de 2 metros deve imprimir como resultado 100000.`
 
 
+---
 ### EXERCÍCIO 02
 Crie um programa para tratar o resultado de uma forma amigável
 

@@ -5,11 +5,13 @@
   
   **Ex:** `15 e 3 = true ` | `7 e 2 = false`
 
+---
 ### EXERCÍCIO 02
  Crie uma função que recebe um número inteiro e retorna um booleano, determinando se ele é primo.
   
 **Ex:** `3 = true`
 
+---
 ### EXERCÍCIO 03
  Crie um programa que determina se a string contida na variável palavra é um palíndromo. Palíndromos são palavras que podem ser invertidas sem alterar sua ortografia.
   

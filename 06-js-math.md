@@ -11,6 +11,7 @@
 `Os valores sorteados foram banana, banana e banana. Você venceu!`
 
 
+---
 ### EXERCÍCIO 02 
 Crie um programa que simule um ataque do meuPokemon contra o pokemonInimigo.
 - O ataque de um pokemon pode causar de 1 à 100 pontos de dano. Caso o elemento do meuPokemon seja forte contra o elemento do pokemonInimigo,

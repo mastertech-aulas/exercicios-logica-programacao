@@ -6,6 +6,7 @@ Crie um programa para receber um número e informe qual dia da semana ele repres
   **Ex:** `O dia 03 é uma segunda-feira`
 
 
+---
 ### EXERCÍCIO 02
 Crie um programa que determina se um número é par ou ímpar.
 O número deve ser informado através de uma variável.

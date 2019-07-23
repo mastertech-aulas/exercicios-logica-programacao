@@ -1,5 +1,6 @@
-### EXERCÍCIO 1
+## EXERCÍCIOS DOM
 ---
+### EXERCÍCIO 1
 Criar uma página HTML que contenha um quadrado e três botões. O quadrado deve estar formatado com uma borda e ter lados de 300px. Os botões devem, ao clicar:
 - Botão 1: Pintar o quadrado de vermelho;
 - Botão 2: Remover a borda bo quadrado;
@@ -7,21 +8,21 @@ Criar uma página HTML que contenha um quadrado e três botões. O quadrado deve
 - Faça cada um dos botões aplicarem seus respectivos efeitos quando clicados, e removerem esses efeitos se clicados novamente;
 - Faça as transições serem animadas;
 
-### EXERCÍCIO 2
 ---
+### EXERCÍCIO 2
 Faça um quadrado na tela de lados equivalentes a 300px.
 - Se o quadrado estiver visível e for clicado, ele deverá sumir;
 - Se o quadrado estiver invisível e for clicado, ele deverá aparecer;
 
-### EXERCÍCIO 3
 ---
+### EXERCÍCIO 3
 Você deve criar três formas geométricas: um quadrado, um círculo e um triângulo.
 - Faça com que somente uma forma geométrica seja exibida por vez;
 - A cada 0.5 segundos, essa forma geométrica deve tornar-se a próxima da lista;
 - Cada forma geométrica deve ter seu respectivo nome abaixo;
 
-### EXERCÍCIO 4
 ---
+### EXERCÍCIO 4
 Crie uma lista vazia no seu documento HTML e crie uma variável no JS com a seguinte lista:
 ~~~
 const convidados = [
@@ -40,8 +41,8 @@ const convidados = [
 - Ao clicar em um item da lista, seu fundo deve ficar vermelho;
 - Ao clicar em um item da lista diferente, qualquer item com o fundo vermelho deve voltar ao normal, e o item clicado deve receber o novo fundo vermelho;
 
-### EXERCÍCIO 5
 ---
+### EXERCÍCIO 5
 Crie uma lista vazia, uma área de input e um botão de pesquisa no seu documento HTML e crie uma variável no JS com a seguinte lista:
 ~~~
 const convidados = [
