@@ -1,4 +1,4 @@
-## EXERCÍCIOS FUNÇÕES
+## EXERCÍCIOS MATH
 ---
 ### EXERCÍCIO 01
   Crie um programa que sorteie um dos valores presentes no vetor escrito abaixo `'valores'` . Repita esse sorteio 3 vezes e verifique se os valores sorteados são iguais.
